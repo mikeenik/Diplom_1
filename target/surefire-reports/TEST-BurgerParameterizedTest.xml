@@ -64,6 +64,6 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="BurgerParameterizedTest" name="getReceiptParameterized[���������������� ������������:SAUCE,sour cream]" time="0.003"/>
-  <testcase classname="BurgerParameterizedTest" name="getReceiptParameterized[���������������� ������������:FILLING,dinosaur]" time="0.004"/>
+  <testcase classname="BurgerParameterizedTest" name="getReceiptParameterized[���������������� ������������:SAUCE,sour cream]" time="0.005"/>
+  <testcase classname="BurgerParameterizedTest" name="getReceiptParameterized[���������������� ������������:FILLING,dinosaur]" time="0.002"/>
 </testsuite>
